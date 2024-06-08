@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Welcome to _Programs from a Parallel Earth_, a blog exploring the fascinating world of distributed systems and game development using Erlang and the BEAM runtime. Together, we'll create tools for building virtual worlds and discover how Erlang's unique features can enable dynamic, scalable and immersive multiplayer experiences. Whether you're an Erlang aficionado, a game developer seeking the power of distributed systems, or simply curious about this eccentric parallel universe, this blog is for you. Let's explore together!
